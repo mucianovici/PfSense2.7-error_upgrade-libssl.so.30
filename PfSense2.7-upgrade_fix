@@ -1,0 +1,3 @@
+certctl rehash
+pfSense-upgrade
+pkg-static clean -ay
